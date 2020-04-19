@@ -1,3 +1,51 @@
 html {
   font-family: sans-serif;
 }
+
+.section-dark {
+  background-color: #e2e2e2;
+}
+
+a {
+  color: #0074d9;
+}
+
+.nav {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.nav a {
+  display: block;
+  text-decoration: none;
+}
+
+.current {
+  background-color: #0074d9;
+  color: #e2e2e2;
+}
+
+.masthead {
+  text-align: center;
+}
+
+@media only screen and (min-width: 25em) {
+
+  .nav li {
+    display: inline-block;
+  }
+
+}
+
+@media only screen and (min-width: 38em) {
+
+  .masthead {
+    text-align: left;
+  }
+
+  ul {
+    text-align: right;
+  }
+
+}
