@@ -25,6 +25,11 @@ a {
   color: #0074d9;
 }
 
+body {
+  padding: 0;
+  margin: 0;
+}
+
 .nav {
   margin: 0;
   padding: 0;
@@ -50,13 +55,10 @@ a {
   text-align: center;
 }
 
-@media only screen and (min-width: 25em) {
-
-  .nav li {
-    display: inline-block;
-  }
-
+.nav li {
+  display: inline-block;
 }
+
 
 @media only screen and (min-width: 38em) {
 
