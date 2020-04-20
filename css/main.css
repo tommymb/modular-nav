@@ -32,8 +32,8 @@ a {
 }
 
 .nav li a:hover {
-  background-color: #fff;
-  color: #e2e2e2;
+  background-color: #0074d9;
+  color: #fff;
 }
 
 .nav a {
@@ -42,8 +42,8 @@ a {
 }
 
 .current {
-  background-color: #fff;
-  color: #e2e2e2;
+  background-color: #0074d9;
+  color: #fff;
 }
 
 .masthead {
