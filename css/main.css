@@ -32,7 +32,7 @@ a {
 }
 
 .nav li a:hover {
-  background-color: #0074d9;
+  background-color: #fff;
   color: #e2e2e2;
 }
 
@@ -42,7 +42,7 @@ a {
 }
 
 .current {
-  background-color: #0074d9;
+  background-color: #fff;
   color: #e2e2e2;
 }
 
